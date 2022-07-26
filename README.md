@@ -15,7 +15,8 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Entusiasta da programação, iniciante com muito interesse em aprender! Me acompanhe nas redes sociais ❤️
+  
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
