@@ -1,4 +1,4 @@
-## Oi! Meu nome é Bianca e Bem-vinda(o) ao meu perfil🤗
+## Oi! Meu nome é Bianca e bem-vinda(o) ao meu perfil🤗
 
 <div align="left">
    <a href="https://github.com/BRABianca">
