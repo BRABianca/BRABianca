@@ -21,7 +21,7 @@
  
  <br>
  
- ### Entusiasta da programação, iniciante com muito interesse em aprender! ❤️ 
+ ### Entusiasta da programação com muito interesse em aprender! ❤️ 
  <div align="left" style="display: inline_block">
  <img align="center" alt=bianca-pic height="150" src="https://cdn.discordapp.com/attachments/970542241913376868/1001368237231067206/ezgif-4-d604b662d8.gif">
  </div>
