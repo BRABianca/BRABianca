@@ -1,4 +1,4 @@
-## Oi! Meu nome é Bianca e bem-vinda(o) ao meu perfil🤗
+## Oi! Meu nome é Bianca e bem-vinda(o) ao meu perfil  ヅ 
 
 <div align="left">
    <a href="https://github.com/BRABianca">
@@ -21,7 +21,7 @@
 
  <div align="left">
    <br>
-   <h3>🐍 Minhas Contribuições</h3>
+   <h3>Minhas Contribuições (>‿◠)✌</h3>
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BRABianca/BRABianca/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BRABianca/BRABianca/output/github-contribution-grid-snake.svg">
@@ -31,7 +31,7 @@
 
  <br>
  
- ### Cientista da programação com muito interesse em aprender! ❤️ 
+ ### Cientista da programação com muito interesse em aprender! ღ 
  <div align="left" style="display: inline_block">
  <img align="center" alt=bianca-pic height="150" src="https://cdn.discordapp.com/attachments/970542241913376868/1001368237231067206/ezgif-4-d604b662d8.gif">
  </div>
