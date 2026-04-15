@@ -6,7 +6,7 @@
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BRABianca&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
-<div align="left">
+<!-- <div align="left">
    <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,8 +17,18 @@
    <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
    <img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
    <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+</div> -->
+
+ <div align="center">
+   <br>
+   <h3>🐍 Minhas Contribuições</h3>
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BRABianca/BRABianca/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BRABianca/BRABianca/output/github-contribution-grid-snake.svg">
+      <img alt="Snake animation" src="https://raw.githubusercontent.com/BRABianca/BRABianca/output/github-contribution-grid-snake-dark.svg">
+   </picture>
 </div>
- 
+
  <br>
  
  ### Cientista da programação com muito interesse em aprender! ❤️ 
@@ -36,12 +46,4 @@
   <a href="https://www.linkedin.com/in/bianca-avalos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
-   <br>
-   <h3>🐍 Minhas Contribuições</h3>
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BRABianca/BRABianca/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BRABianca/BRABianca/output/github-contribution-grid-snake.svg">
-      <img alt="Snake animation" src="https://raw.githubusercontent.com/BRABianca/BRABianca/output/github-contribution-grid-snake-dark.svg">
-   </picture>
-</div>
+
