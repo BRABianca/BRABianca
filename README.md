@@ -1,4 +1,12 @@
-## Oi! Meu nome é Bianca e bem-vinda(o) ao meu perfil  ヅ 
+<div align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <h1>Oi! Meu nome é Bianca e bem-vinda(o) ao meu perfil  ヅ </h1>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
    <a href="https://github.com/BRABianca">
@@ -31,7 +39,16 @@
 
  <br>
  
- ### Cientista da computação com muito interesse em aprender! ❥ 
+<div align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <h1>Cientista da computação com muito interesse em aprender! ❥ </h1>
+      </td>
+    </tr>
+  </table>
+</div>
+
  <div align="center" style="display: inline_block">
  <img align="center" alt=bianca-pic height="150" src="https://cdn.discordapp.com/attachments/970542241913376868/1001368237231067206/ezgif-4-d604b662d8.gif">
  </div>
