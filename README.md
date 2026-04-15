@@ -19,7 +19,7 @@
    <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 </div> -->
 
- <div align="center">
+ <div align="left">
    <br>
    <h3>🐍 Minhas Contribuições</h3>
    <picture>
